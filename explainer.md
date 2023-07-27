@@ -400,6 +400,9 @@ will list them here with links to evidence as appropriate.]
 
 [When appropriate, we will explain the reasons given by other implementers for their concerns.]
 
+- [Mozilla/Firefox](https://github.com/mozilla/standards-positions/issues/852#issuecomment-1648820747): Negative
+- [Vivaldi](https://vivaldi.com/blog/googles-new-dangerous-web-environment-integrity-spec/): Negative
+
 ## References & acknowledgements
 
 Many thanks for valuable feedback and advice from:
